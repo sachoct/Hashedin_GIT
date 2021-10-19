@@ -1,0 +1,48 @@
+//Git
+//19-october-2021
+//Why Git?
+*FREE *OPEN SOURCE * Super Fast Scalable *Cheap
+
+
+//1.Git Version we using
+C:\Users\sachin bhat>git --version
+git version 2.29.2.windows.2
+
+
+
+C:\Users\sachin bhat>code
+
+C:\Users\sachin bhat>git config --global core.editor "code --wait"
+
+C:\Users\sachin bhat>git config --global -e
+hint: Waiting for your editor to close the file...
+
+
+
+//carrage return set true for win    and set input in macc or linux
+// \r\n  \n
+
+
+git config --help
+
+//Created Git directory for project
+//move terminal to Git directory
+//initialize git
+git init
+Initialized empty Git repository in C:/Users/sachin bhat/Desktop/hashedIn_Learn/Git/.git/
+
+ls -a
+./  ../  .git/  Git.txt  git-cheat-sheet-education.pdf
+
+
+start .git   //opened .git file
+
+del .git // delete .git directory
+
+git init
+
+
+
+
+
+
